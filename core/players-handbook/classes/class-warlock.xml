@@ -918,7 +918,7 @@
       <p class="indent">Once you use this feature, you can’t use it again until you finish a short or long rest.</p>
     </description>
     <sheet action="Action" usage="1/Short Rest">
-      <description>You can cause each creature in a 10-foot cube originating from you to make a DC{{spellcasting:dc:wis}} Wisdom saving throw. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</description>
+      <description>You can cause each creature in a 10-foot cube originating from you to make a DC{{spellcasting:dc:cha}} Wisdom saving throw. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</description>
     </sheet>
     <rules />
   </element>
